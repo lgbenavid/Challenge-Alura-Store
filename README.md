@@ -82,17 +82,25 @@ Challenge-Alura-Store/
 
 ![imagen](https://github.com/user-attachments/assets/9a96cfc6-b8a6-43f0-8e3c-7f8fb9e8da0f)
 
-# RECOMENDACIÓN FINAL
+## 📌 RECOMENDACIÓN FINAL
 
 ## La tienda con peor desempeño es: Tienda 4
 
 Razones principales:
-- Facturación total más baja: $1,038,375,700
-- Evaluación de clientes más baja: 4.00/5
-- Costo de envío más alto: $23,459.46
-- Menos ventas totales: 2358 transacciones
 
-## 🚀 Instrucciones para Ejecución
+🔴 Facturación total más baja: $1,038,375,700
+
+🔴 Evaluación de clientes más baja: 4.00/5
+
+🔴 Costo de envío más alto: $23,459.46
+
+🔴 Menos ventas totales: 2358 transacciones
+
+
+## Sugerencia: Reinvertir capital en expandir tiendas mejor posicionadas o desarrollar nueva línea de negocio.
+
+
+# 🚀 Instrucciones para Ejecución
 
 Método 1: Google Colab Directo
 
@@ -113,6 +121,14 @@ pip install pandas matplotlib seaborn numpy
 3. Ejecutar notebook:
 
 jupyter notebook AluraStoreLatam_GBR.ipynb
+
+## Configuración Requerida
+
+    Python 3.8+
+
+    Librerías: Pandas 1.3+, Matplotlib 3.4+
+
+
 
 
 
