@@ -100,6 +100,19 @@ Abrir el notebook en Colab:
 
 https://colab.research.google.com/github/lgbenavid/Challenge-Alura-Store/blob/main/AluraStoreLatam_GBR.ipynb
 
+Método 2: Ejecución Local
+
+1. Clonar repositorio:
+
+git clone https://github.com/lgbenavid/Challenge-Alura-Store.git
+
+2. Instalar dependencias:
+
+pip install pandas matplotlib seaborn numpy
+
+3. Ejecutar notebook:
+
+jupyter notebook AluraStoreLatam_GBR.ipynb
 
 
 
