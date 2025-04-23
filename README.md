@@ -128,6 +128,9 @@ jupyter notebook AluraStoreLatam_GBR.ipynb
 
     Librerías: Pandas 1.3+, Matplotlib 3.4+
 
+Copyright (c) [2025] [Gonzalo Benavides Ramírez]
+
+📧 Contacto: [lgbenavid@gmail.com]
 
 
 
