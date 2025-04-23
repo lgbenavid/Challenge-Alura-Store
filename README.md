@@ -74,6 +74,16 @@ Challenge-Alura-Store/
 
 ![imagen](https://github.com/user-attachments/assets/451fca43-8038-40be-8ba6-e57e211d99ae)
 
+## 5. Envío promedio por tienda
+
+![imagen](https://github.com/user-attachments/assets/b6242234-a856-4080-b05d-6934e9971e2f)
+
+## 6. Informe Final
+
+![imagen](https://github.com/user-attachments/assets/9a96cfc6-b8a6-43f0-8e3c-7f8fb9e8da0f)
+
+
+
 
 
 
