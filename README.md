@@ -68,6 +68,14 @@ Challenge-Alura-Store/
 
 ![imagen](https://github.com/user-attachments/assets/018409d1-ca6a-41a3-8b92-0660af79480a)
 
+## 4. Productos más y menos vendidos
+
+![imagen](https://github.com/user-attachments/assets/6cc4f497-dd7d-410b-bdb3-d40a885a7f85)
+
+![imagen](https://github.com/user-attachments/assets/451fca43-8038-40be-8ba6-e57e211d99ae)
+
+
+
 
 
 
