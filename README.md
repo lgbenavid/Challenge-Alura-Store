@@ -92,6 +92,14 @@ Razones principales:
 - Costo de envío más alto: $23,459.46
 - Menos ventas totales: 2358 transacciones
 
+## 🚀 Instrucciones para Ejecución
+
+Método 1: Google Colab Directo
+
+Abrir el notebook en Colab:
+
+https://colab.research.google.com/github/lgbenavid/Challenge-Alura-Store/blob/main/AluraStoreLatam_GBR.ipynb
+
 
 
 
